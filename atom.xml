@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Maths Club</title>
+ <link href="/club/atom.xml" rel="self"/>
+ <link href="https://cgs-math.github.io/club/"/>
+ <updated>2022-02-10T10:47:24+00:00</updated>
+ <id>https://cgs-math.github.io</id>
+ <author>
+   <name>Garv Shah</name>
+   <email>gshah.6110@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Term 1 Week 2 Senior Problems</title>
+   <link href="https://cgs-math.github.io/club/posts/2022Week2Senior"/>
+   <updated>2022-02-09T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/2022Week2Senior</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    Term 1 Week 2 Senior Problems &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;Term 1 Week 2 Senior Problems&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Senior Problems for Term 1 Week 2&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Senior Problems for Term 1 Week 2&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/2022Week2Senior&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/2022Week2Senior&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2022-02-09T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;Term 1 Week 2 Senior Problems&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;Senior Problems for Term 1 Week 2&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week2Senior&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;Term 1 Week 2 Senior Problems&quot;,&quot;dateModified&quot;:&quot;2022-02-09T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2022-02-09T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week2Senior&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;h1 id=&quot;problem-1&quot;&gt;Problem 1&lt;/h1&gt;
+&lt;p&gt;In $\triangle BAC$, $\angle BAC=40^\circ$, $AB=10$, and $AC=6$. Points $D$ and $E$ lie on $\overline{AB}$ and $\overline{AC}$ respectively. What is the minimum possible value of $BE+DE+CD$?&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;h2&gt;Solution 1&lt;/h2&gt;
+Let $C_1$ be the reflection of $C$ across $\overline{AB}$, and let $C_2$ be the reflection of $C_1$ across $\overline{AC}$. Then it is well-known that the quantity $BE+DE+CD$ is minimized when it is equal to $C_2B$. (Proving this is a simple application of the triangle inequality; for an example of a simpler case, see Heron's Shortest Path Problem.) As $A$ lies on both $AB$ and $AC$, we have $C_2A=C_1A=CA=6$. Furthermore, $\angle CAC_1=2\angle CAB=80^\circ$ by the nature of the reflection, so $\angle C_2AB=\angle C_2AC+\angle CAB=80^\circ+40^\circ=120^\circ$. Therefore by the Law of Cosines \[BC_2^2=6^2+10^2-2\cdot 6\cdot 10\cos 120^\circ=196\implies BC_2=14.\]
+&lt;br /&gt;
+&lt;h2&gt;Solution 2&lt;/h2&gt;
+In $\triangle BAC$, the three lines look like the Chinese character 又. Let $\triangle DEA$, $\triangle CDA$, and $\triangle BEA$ have bases $DE$, $CD$, and $BE$ respectively. Then, $\triangle DEA$ has the same side $DA$ as $\triangle CDA$ and the same side $EA$ as $\triangle BEA$. Connect all three triangles with $\triangle DEA$ in the center and the two triangles sharing one of its sides. Then, the pentagon $BACDE$ is formed with $BE+DE+CD$ forming the base. &lt;br /&gt;&lt;br /&gt;
+
+Intuitively, the pentagon's base is minimized when all three bottom sides are collinear. This is simply the original $\triangle BAC$ except that $\angle BAC =120^\circ$. (In $\triangle DEA$, $\triangle CDA$, and $\triangle BEA$, $\angle A = 40^\circ$, and the three triangles connect at $A$ to form the pentagon). Thus, $m\angle BAC = 40 * 3$). &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+
+
+$BC$ in this new triangle is then the minimum of $BE+DE+CD$. Applying law of cosines, $BC=\sqrt{6^2+10^2-2(6)(10)\cos (120^\circ)}=\sqrt{196}=14$
+&lt;br /&gt;
+&lt;h2&gt;Solution 3&lt;/h2&gt;
+&lt;img src=&quot;https://latex.artofproblemsolving.com/9/9/2/992bb5f4313de15d7b9061d87207385f7af07b81.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+Reflect $C$ across $AB$ to $C'$. Similarly, reflect $B$ across $AC$ to $B'$. Clearly, $BE = B'E$ and $CD = C'D$. Thus, the sum $BE + DE + CD = B'E + DE + C'D$. This value is minimized when $B'$, $C'$, $D$ and $E$ are collinear. To finish, we use the law of cosines on the triangle $AB'C'$: $B'C' = \sqrt{6^2 + 10^2 - 2(6)(10)\cos 120} = 14$
+&lt;br /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;problem-2&quot;&gt;Problem 2&lt;/h1&gt;
+&lt;p&gt;An irregular hexagon with all sides of equal length is placed inside a square of side length 1, as shown below (not to scale). What is the length of one of the hexagon sides?
+&lt;img src=&quot;/club/static/week2term1question22022.png&quot; alt=&quot;Problem 2&quot; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/processed-e6dd33cc-a673-4e88-9c76-1f8d2fa18fbd_H0zBd5xr.jpeg&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;problem-3&quot;&gt;Problem 3&lt;/h1&gt;
+&lt;p&gt;Let $1 + (\frac{1}{2})^2 + (\frac{1}{3})^2 + (\frac{1}{4})^2 + \cdots = s$. find the value of $1 + (\frac{1}{3})^2 + (\frac{1}{5})^2 + (\frac{1}{7})^2 + \cdots$ in terms of s.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/916266527446138910/940287364025172008/IMG_3111.jpg&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;problem-4&quot;&gt;Problem 4&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/916266527446138910/940287580015067136/Screen_Shot_2022-02-08_at_3.47.04_am.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/IMG_3112-1.jpeg&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Term 1 Week 2 Junior Problems</title>
+   <link href="https://cgs-math.github.io/club/posts/2022Week2Junior"/>
+   <updated>2022-02-09T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/2022Week2Junior</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    Term 1 Week 2 Junior Problems &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;Term 1 Week 2 Junior Problems&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Junior Problems for Term 1 Week 2&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Junior Problems for Term 1 Week 2&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/2022Week2Junior&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/2022Week2Junior&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2022-02-09T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;Term 1 Week 2 Junior Problems&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;Junior Problems for Term 1 Week 2&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week2Junior&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;Term 1 Week 2 Junior Problems&quot;,&quot;dateModified&quot;:&quot;2022-02-09T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2022-02-09T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week2Junior&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;h1 id=&quot;problem-1&quot;&gt;Problem 1&lt;/h1&gt;
+&lt;p&gt;What is the area of the triangle bounded by the lines $y = x, y = -x$ and $y = 6$?&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://latex.artofproblemsolving.com/6/8/6/6863401960a6ad7e98ced6f1e4b5c85e86470a46.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+The height of the triangle is $y = 6$, and the width of the triangle is $|x_1| + |x_2| = 2y = 12$. Thus the area of the triangle is $\frac{1}{2} \cdot 6 \cdot 12 = 36$.
+&lt;br /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;problem-2&quot;&gt;Problem 2&lt;/h1&gt;
+&lt;p&gt;Squares $ABCD$, $EFGH$, and $GHIJ$ are equal in area. Points $C$ and $D$ are the midpoints of sides $IH$ and $HE$, respectively. What is the ratio of the area of the shaded pentagon $AJICB$ to the sum of the areas of the three squares?
+&lt;img src=&quot;https://latex.artofproblemsolving.com/1/6/9/169139bda69e81f8342f246f95cc3f636c1f9abe.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+We can see that the Pentagon is made of two congruent shapes. We can fit one triangle into the gap in the upper square. Therefore, the answer is just $\frac{1}{3}$
+&lt;br /&gt;
+&lt;h2&gt;Alternatively&lt;/h2&gt;
+&lt;img src=&quot;https://latex.artofproblemsolving.com/1/7/5/175993b9d06ceea7bbcec265c1c4477bad578649.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+First let $s=2$ (where $s$ is the side length of the squares) for simplicity. We can extend $\overline{IJ}$ until it hits the extension of $\overline{AB}$. Call this point $X$. The area of triangle $AXJ$ then is $\dfrac{3 \cdot 4}{2}$ The area of rectangle $BXIC$ is $2 \cdot 1 = 2$. Thus, our desired area is $6-2 = 4$. Now, the ratio of the shaded area to the combined area of the three squares is $\frac{4}{3\cdot 2^2} = \frac{1}{3}$.
+&lt;br /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;problem-3&quot;&gt;Problem 3&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/916266527446138910/940517694380339220/maths_club_3.jpg&quot; style=&quot;filter: invert(100%);&quot; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/916266527446138910/940517693600194570/maths_club_4.jpg&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;problem-4&quot;&gt;Problem 4&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.discordapp.com/attachments/916266527446138910/940517693864415272/Maths_club.jpg&quot; style=&quot;filter: invert(100%);&quot; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cdn.discordapp.com/attachments/916266527446138910/940517694137057300/maths_club_2.jpg&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Term 1 Week 1 Senior Problems</title>
+   <link href="https://cgs-math.github.io/club/posts/2022Week1Senior"/>
+   <updated>2022-01-31T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/2022Week1Senior</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    Term 1 Week 1 Senior Problems &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;Term 1 Week 1 Senior Problems&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Senior Problems for Term 1 Week 1&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Senior Problems for Term 1 Week 1&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/2022Week1Senior&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/2022Week1Senior&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2022-01-31T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;Term 1 Week 1 Senior Problems&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;Senior Problems for Term 1 Week 1&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week1Senior&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;Term 1 Week 1 Senior Problems&quot;,&quot;dateModified&quot;:&quot;2022-01-31T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2022-01-31T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week1Senior&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;h1 id=&quot;problem-1&quot;&gt;Problem 1&lt;/h1&gt;
+&lt;p&gt;Let the positive integer $N$ be given by $\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{N}}}}}=2019$. &lt;br /&gt;
+Simplify as much as possible, the expression $\frac{\sqrt{N\sqrt{N\sqrt{N\sqrt{N\sqrt{N}}}}}}{N}$.&lt;/p&gt;
+
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/lottaroots.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;/details&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;problem-2&quot;&gt;Problem 2&lt;/h1&gt;
+&lt;p&gt;The cancellation of the Wimbledon tournament has led to a world surplus of tennis balls, and Santa has decided to use them as stocking fillers. He comes down the chimney with $n$ identical tennis balls, and he finds $k$ named stockings waiting for him. Let $g(n, k)$ be the number of ways that Santa can put the $n$ balls into the $k$ stockings; for example, $g(2, 2) = 3$, because with two balls and two children, Miriam and Adam, he can give both balls to Miriam, or both to Adam, or he can give them one ball each.
+&lt;br /&gt;
+What is the value of $g(7, 5)$?&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/bigboi.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;problem-3&quot;&gt;Problem 3&lt;/h1&gt;
+&lt;p&gt;Given $\overline{AP} = 3$, $\overline{BP} = 6$ and $\overline{CP} = 11$, what is the length of $\overline{DP}$?
+&lt;img src=&quot;/club/static/week1term1question32022.png&quot; alt=&quot;Problem 3 Image&quot; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/D047E379-6AFF-4BCA-A655-3BD6F6DCA91C.jpg&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;problem-4&quot;&gt;Problem 4&lt;/h1&gt;
+&lt;p&gt;Given the integers $x$, $y$, $z$, satisfy $(\frac{15}{8})^x \times (\frac{16}{9})^y \times (\frac{27}{10})^z = 16$, find the value of $\frac{2x+y}{z-y}$&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/IMG_3088.jpg&quot; /&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Term 1 Week 1 Junior Problems</title>
+   <link href="https://cgs-math.github.io/club/posts/2022Week1Junior"/>
+   <updated>2022-01-31T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/2022Week1Junior</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    Term 1 Week 1 Junior Problems &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;Term 1 Week 1 Junior Problems&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Junior Problems for Term 1 Week 1&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Junior Problems for Term 1 Week 1&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/2022Week1Junior&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/2022Week1Junior&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2022-01-31T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;Term 1 Week 1 Junior Problems&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;Junior Problems for Term 1 Week 1&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week1Junior&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;Term 1 Week 1 Junior Problems&quot;,&quot;dateModified&quot;:&quot;2022-01-31T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2022-01-31T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/2022Week1Junior&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;h1 id=&quot;problem-1&quot;&gt;Problem 1&lt;/h1&gt;
+&lt;p&gt;In the figure below, choose point $D$ on $\overline{BC}$ so that $\triangle ACD$ and $\triangle ABD$ have equal perimeters. What is the area of $\triangle ABD$?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//latex.artofproblemsolving.com/5/3/e/53eb67d35ecca7ac6f68e8dff60b0eb5f3e4a602.png&quot; class=&quot;latexcenter&quot; alt=&quot;[asy]draw((0,0)--(4,0)--(0,3)--(0,0)); label(&amp;quot;$A$&amp;quot;, (0,0), SW); label(&amp;quot;$B$&amp;quot;, (4,0), ESE); label(&amp;quot;$C$&amp;quot;, (0, 3), N); label(&amp;quot;$3$&amp;quot;, (0, 1.5), W); label(&amp;quot;$4$&amp;quot;, (2, 0), S); label(&amp;quot;$5$&amp;quot;, (2, 1.5), NE);[/asy]&quot; width=&quot;252&quot; height=&quot;198&quot; style=&quot;filter: invert(100%);&quot; /&gt;&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+
+&lt;h2&gt;Solution 1&lt;/h2&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/Screen_Shot_2022-02-06_at_6.20.08_pm.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;br /&gt;
+
+&lt;h2&gt;Solution 2&lt;/h2&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/Screen_Shot_2022-02-06_at_6.20.28_pm.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;br /&gt;
+
+&lt;h2&gt;Solution 3&lt;/h2&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/Screen_Shot_2022-02-06_at_6.20.45_pm.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;br /&gt;
+
+&lt;h2&gt;Solution 4&lt;/h2&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/Screen_Shot_2022-02-06_at_6.21.08_pm.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+&lt;br /&gt;
+
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;problem-2&quot;&gt;Problem 2&lt;/h1&gt;
+&lt;p&gt;An integer between $1000$ and $9999$, inclusive, is chosen at random. What is the probability that it is an odd integer whose digits are all distinct?&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+
+&lt;img src=&quot;https://cgs-math.github.io/club/static/Screen_Shot_2022-02-06_at_6.32.42_pm.png&quot; style=&quot;filter: invert(100%);&quot; /&gt;
+
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;problem-3&quot;&gt;Problem 3&lt;/h1&gt;
+&lt;p&gt;It is known that $\sqrt{b}+c = \sqrt{10+2\sqrt{24}}$. If $b$ and $c$ are both integers, find the value of $(b+c)^2$.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+
+&lt;img src=&quot;https://cgs-math.github.io/club/static/processed-1134ff20-31fc-4911-8aa2-72dfba4fb727_A8cLHaua.jpeg&quot; /&gt;&lt;br /&gt;
+
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;problem-4&quot;&gt;Problem 4&lt;/h1&gt;
+&lt;p&gt;if $a+\frac{1}{b}=6, a^3+\frac{1}{b^3}=180$, find the value of $\frac{a}{b}$.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+&lt;img src=&quot;https://cgs-math.github.io/club/static/processed-c335223a-6b7c-4202-8c31-72c5b5f5cdf1_fbsWDRZB.jpeg&quot; /&gt;&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;/details&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Term 3 Week 1 Solutions</title>
+   <link href="https://cgs-math.github.io/club/posts/Term-3-Week-1-Solutions"/>
+   <updated>2021-07-21T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/Term-3-Week-1-Solutions</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    Term 3 Week 1 Solutions &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;Term 3 Week 1 Solutions&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Solutions to the problem set from Term 3 Week 1&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Solutions to the problem set from Term 3 Week 1&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/Term-3-Week-1-Solutions&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/Term-3-Week-1-Solutions&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2021-07-21T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;Term 3 Week 1 Solutions&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;Solutions to the problem set from Term 3 Week 1&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/Term-3-Week-1-Solutions&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;Term 3 Week 1 Solutions&quot;,&quot;dateModified&quot;:&quot;2021-07-21T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2021-07-21T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/Term-3-Week-1-Solutions&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;h1 id=&quot;problems-from-the-2020-canadian-intermediate-contest&quot;&gt;Problems from the 2020 Canadian Intermediate Contest&lt;/h1&gt;
+
+&lt;p&gt;Last week’s problems were from the 2020 Canadian Intermediate Contest.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cemc.uwaterloo.ca/contests/past_contests/2020/2020CIMC.pdf&quot;&gt;Click here for problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cemc.uwaterloo.ca/contests/past_contests/2020/2020CIMCSolution.pdf&quot;&gt;Click here for solutions&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2020 AMC Junior</title>
+   <link href="https://cgs-math.github.io/club/posts/2020-AMC-Junior"/>
+   <updated>2021-07-16T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/2020-AMC-Junior</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    2020 AMC Junior &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;2020 AMC Junior&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;a few problems and solutions from the AMC :D&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;a few problems and solutions from the AMC :D&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/2020-AMC-Junior&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/2020-AMC-Junior&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2021-07-16T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;2020 AMC Junior&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;a few problems and solutions from the AMC :D&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/2020-AMC-Junior&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;2020 AMC Junior&quot;,&quot;dateModified&quot;:&quot;2021-07-16T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2021-07-16T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/2020-AMC-Junior&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;h1 id=&quot;madeleines-pin&quot;&gt;Madeleine’s PIN&lt;/h1&gt;
+
+&lt;p&gt;Madeleine types her three-digit Personal Identification Number (PIN) into this keypad.&lt;/p&gt;
+&lt;p&gt;All three digits are different, but the buttons for the first and second digits share an edge, and the buttons for the second and third digits share an edge.&lt;/p&gt;
+&lt;p&gt;For instance, 563 is a possible PIN, but 536 is not, since 5 and 3 do not share an edge.&lt;/p&gt;
+&lt;p&gt;How many possibilities are there for Madeleine’s PIN?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/club/static/madeleines-pin.png&quot; alt=&quot;Madeleine's PIN&quot; /&gt;&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;Click to show solution&lt;/summary&gt;
+  &lt;blockquote&gt; Answer: 50&lt;/blockquote&gt;
+  &lt;p&gt;The three digits must make one of the following shapes on the keypad. Below each shape, the number represents the number of ways in which the shape can be placed on the keypad.&lt;/p&gt;
+  &lt;img alt=&quot;Madeleine's PIN Solution&quot; src=&quot;https://raw.githubusercontent.com/Maths-Club/Maths-Club.github.io/main/static/madeleines-pin-solution.png&quot; style=&quot;border-radius: 10px&quot; /&gt;
+  &lt;p&gt;For each such shape, there are two possible Personal Identification Numbers. So the number of possibilities for Madeleine's PIN is:&lt;/p&gt;
+  &lt;p&gt;$2\times(4 + 3 + 4 + 4 + 5 + 5) = 50$&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;augustas-cube&quot;&gt;Augusta’s Cube&lt;/h1&gt;
+
+&lt;p&gt;Starting with a $9\times9\times9$ cube, Augusta removed as few $1\times1\times1$ cubes as possible so that the resulting sculpture had front view, top view and side view all the same, as shown.
+How many $1\times1\times1$ cubes did Augusta remove?
+&lt;img src=&quot;/club/static/augustas-cube.png&quot; alt=&quot;Augusta's Cube&quot; /&gt;&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;Click to show solution&lt;/summary&gt;
+  
+ &lt;blockquote&gt; Answer: 329&lt;/blockquote&gt;   
+  
+ &lt;p&gt;
+  The only cubes that Augusta has to remove are those that are in one of the 9 holes in at least one of the 3 views.
+ &lt;/p&gt;
+  
+ &lt;p&gt;
+  Consider first making the central $3\times3$ hole from each direction. Each such hole can be considered as three $3\times3\times3$ cubes, but the three directions have a central $3\times3\times3$ cube in common. Consequently $7\times3^3=7\times27=189$ unit cubes are removed to make these holes, and $20\times33=540$ cubes are left.
+ &lt;/p&gt;
+  
+ &lt;p&gt;
+  Now consider the $1\times1$ holes from each direction. Each of the twenty $3\times3\times3$ cubes remaining will have $7$ unit cubes removed, so $20\times7=140$ unit cubes in all.
+  In total, Augusta removes $189 + 140=329$ unit cubes  
+ &lt;/p&gt;
+ 
+&lt;/details&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;product-of-integars&quot;&gt;Product of Integars&lt;/h1&gt;
+&lt;p&gt;A different integer from 1 to 10 is placed on each of the faces of a cube. Each vertex is then assigned a number which is the sum of the numbers on the three faces which touch that vertex.&lt;/p&gt;
+&lt;p&gt;Only the vertex numbers are shown here. What is the product of the 4 smallest face numbers?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/club/static/product-of-integars.png&quot; alt=&quot;Product of Integars&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Triangular Numbers</title>
+   <link href="https://cgs-math.github.io/club/posts/Triangular-Numbers"/>
+   <updated>2021-07-10T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/Triangular-Numbers</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    Triangular Numbers &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;Triangular Numbers&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;What is the next year that is a triangular number?&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;What is the next year that is a triangular number?&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/Triangular-Numbers&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/Triangular-Numbers&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2021-07-10T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;Triangular Numbers&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;What is the next year that is a triangular number?&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/Triangular-Numbers&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;Triangular Numbers&quot;,&quot;dateModified&quot;:&quot;2021-07-10T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2021-07-10T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/Triangular-Numbers&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;p&gt;Triangular numbers are those numbers that can be represented geometrically as a triangle, as shown in the image below: &lt;br /&gt;
+&lt;img alt=&quot;Triangular numbers&quot; src=&quot;https://raw.githubusercontent.com/Maths-Club/Maths-Club.github.io/main/_posts/triangular-numbers.png&quot; width=&quot;350&quot; style=&quot;border-radius: 10px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The $n^{th}$ triangular number is equal to $1+2+3+…+n$. &lt;br /&gt;
+It can also be evaluated using the &lt;em&gt;very useful&lt;/em&gt; formula $\dfrac{n(n+1)}{2}$.&lt;/p&gt;
+
+&lt;p&gt;The last year that was a triangular number was 2016. What is the next year that is a triangular number?&lt;/p&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;Click to show solution&lt;/summary&gt;
+  
+ &lt;blockquote&gt; Answer: 2080&lt;/blockquote&gt;   
+  
+ &lt;p&gt;
+ The formula $\dfrac{n(n+1)}{2}$ is &lt;em&gt;very useful&lt;/em&gt;.   
+ By trial and error, we can find that $2016=\dfrac{63 \times 64}{2}$.
+ The next triangular year is  $\dfrac{64 \times 65}{2}=2080$.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+  Note that we are assuming nobody will be reading and attempting this question more than 60 years after it was written! 😉
+  &lt;/p&gt;
+ 
+&lt;/details&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About Maths Club</title>
+   <link href="https://cgs-math.github.io/club/posts/About-Maths-Club"/>
+   <updated>2021-07-09T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/About-Maths-Club</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    About Maths Club &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;About Maths Club&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;The CGSWH Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;The CGSWH Maths Club&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/About-Maths-Club&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/About-Maths-Club&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2021-07-09T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;About Maths Club&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;The CGSWH Maths Club&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/About-Maths-Club&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;About Maths Club&quot;,&quot;dateModified&quot;:&quot;2021-07-09T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2021-07-09T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/About-Maths-Club&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;h1 id=&quot;the-jerry-mao-maths-club&quot;&gt;The Jerry Mao Maths Club&lt;/h1&gt;
+
+&lt;p&gt;The Jerry Mao Maths Club was founded at Caulfield Grammar Wheelers Hill Campus in 2017 by Jerry Mao (hence the name). He started the Maths Club to share his love of Maths and problem solving with other students at CGS. If you are a student at our school, then you have no doubt already heard about Jerry’s legendary achievements. But you can also find out more about him here:&lt;br /&gt;
+&lt;a href=&quot;https://www.caulfieldgrammarians.com.au/high-achiever-jerry-mao/&quot;&gt;https://www.caulfieldgrammarians.com.au/high-achiever-jerry-mao/&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://jerrymao.net/&quot;&gt;https://jerrymao.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2019, Junhua Chen took over as Maths Club Leader, after being “trained up” by Jerry the previous year. Having representing Australia in Informatics, Junhua brought his passion for combinatorics, game analysis, and all areas of maths into the problem sets he created for Maths Club. The students loved his understated manner, friendly sense of humour and down-to-earth teaching style. Junhua also built this website after graduating!&lt;/p&gt;
+
+&lt;p&gt;In 2021, the Maths Club leadership was taken over by Chenxiao (Kevin) Zhou, Jasmin Wang and Eric He. They have each brought their own personalities to Maths Club: Kevin with his love of Euclidean Geometry and “tough-love” teaching style, Eric with his Algorithmic skills and crystal clear explanations, and Jasmin with her creative problem solving approaches and “bad girl” image.&lt;/p&gt;
+
+&lt;p&gt;Whether you are a Maths gun looking for more of a challenge, or just enjoy the simple pleasure of investigating and solving problems, Maths Club is for you. We hope you learn something, and most of all, have fun!&lt;/p&gt;
+
+&lt;p&gt;Russell Lim&lt;br /&gt;
+CGS Maths Teacher and Maths Club Supervisor
+2018 - 2021&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TestPost</title>
+   <link href="https://cgs-math.github.io/club/posts/TestPost"/>
+   <updated>2021-06-03T00:00:00+00:00</updated>
+   <id>https://cgs-math.github.io/posts/TestPost</id>
+   <content type="html">&lt;html&gt;
+  &lt;title&gt;
+    
+    TestPost &amp;middot; Maths Club
+    
+  &lt;/title&gt;
+
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css&quot; integrity=&quot;sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc&quot; crossorigin=&quot;anonymous&quot; /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;/club/styles.css&quot; /&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js&quot; integrity=&quot;sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script defer=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js&quot; integrity=&quot;sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+  &lt;script&gt;
+      document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+  &lt;/script&gt;
+  &lt;link rel=&quot;alternate&quot; type=&quot;application/atom+xml&quot; title=&quot;Maths Club&quot; href=&quot;/club/atom.xml&quot; /&gt;
+
+  &lt;!-- Begin Jekyll SEO tag v2.7.1 --&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;Jekyll v3.9.0&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;TestPost&quot; /&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Garv Shah&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;Test Problemset Yay&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Test Problemset Yay&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;https://cgs-math.github.io/club/posts/TestPost&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://cgs-math.github.io/club/posts/TestPost&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Maths Club&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2021-06-03T00:00:00+00:00&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;TestPost&quot; /&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{&quot;description&quot;:&quot;Test Problemset Yay&quot;,&quot;url&quot;:&quot;https://cgs-math.github.io/club/posts/TestPost&quot;,&quot;@type&quot;:&quot;BlogPosting&quot;,&quot;headline&quot;:&quot;TestPost&quot;,&quot;dateModified&quot;:&quot;2021-06-03T00:00:00+00:00&quot;,&quot;datePublished&quot;:&quot;2021-06-03T00:00:00+00:00&quot;,&quot;mainEntityOfPage&quot;:{&quot;@type&quot;:&quot;WebPage&quot;,&quot;@id&quot;:&quot;https://cgs-math.github.io/club/posts/TestPost&quot;},&quot;author&quot;:{&quot;@type&quot;:&quot;Person&quot;,&quot;name&quot;:&quot;Garv Shah&quot;},&quot;@context&quot;:&quot;https://schema.org&quot;}&lt;/script&gt;
+&lt;!-- End Jekyll SEO tag --&gt;
+
+&lt;/html&gt;
+
+&lt;p&gt;This is a Markdown file.
+&lt;a href=&quot;https://www.markdownguide.org/basic-syntax/&quot;&gt;Click this link to learn about Markdown syntax&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;on-the-subject-of-memes&quot;&gt;On the subject of memes&lt;/h1&gt;
+
+&lt;p&gt;Haha meme funny $x^2+2x+1=0$ is a qaudratic equation rendered with inline math
+($).&lt;/p&gt;
+
+&lt;p&gt;OOh goody I can do display math with “$$” signs.&lt;/p&gt;
+
+\[\sum_{i=0}^n i = \frac{n(n+1)}{2}\]
+
+&lt;blockquote&gt;
+  &lt;p&gt;blockquotes are good&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;here-is-how-you-can-include-an-image&quot;&gt;Here is how you can include an image&lt;/h1&gt;
+
+&lt;p&gt;First upload the image to the \static folder and use Jekyll’s inbuilt tag system&lt;/p&gt;
+
+&lt;p&gt;Markdown:
+&lt;img src=&quot;/club/static/nine-isosceles-trapezoids-form-ring.png&quot; alt=&quot;Nine trapezoids forming a ring&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;HTML (if you want to change the size etc.):
+&lt;img alt=&quot;Nine trapezoids forming a ring&quot; src=&quot;https://raw.githubusercontent.com/Maths-Club/Maths-Club.github.io/main/static/nine-isosceles-trapezoids-form-ring.png&quot; width=&quot;100&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;here-is-a-problem-with-solution-hidden&quot;&gt;Here is a problem with solution hidden&lt;/h1&gt;
+
+&lt;p&gt;What is the largest prime factor of 51?&lt;/p&gt;
+
+&lt;details&gt;
+
+&lt;summary&gt;Click to show solution&lt;/summary&gt;
+ (MARKDOWN NOT RENDERED INSIDE HTML TAG?)
+&amp;gt; Answer: 17
+
+Let's use trial and error to see which numbers are factors of 51
+
+It's odd so we only need to try odd numbers:
+* 1 is a factor: $51 = 1 \times 51$
+* 3 is a factor: $51 = 3 \times 17$
+* 5 is not a factor
+* 7 is not a factor
+* 9 is not a factor
+
+And $9^2$ is already larger than $51$, so we don't need to try any more.
+The largest prime factor we found was $17$.
+
+&lt;/details&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;Click to show solution (V2)&lt;/summary&gt;
+
+ &lt;blockquote&gt; Answer: 17&lt;/blockquote&gt;
+
+  Let's use trial and error to see which numbers are factors of 51  &lt;br /&gt;
+  It's odd so we only need to try odd numbers: &lt;br /&gt;&lt;br /&gt;
+
+  &lt;ul&gt;
+     &lt;li&gt; 1 is a factor: $51 = 1 \times 51$ &lt;/li&gt;
+     &lt;li&gt; 3 is a factor: $51 = 3 \times 17$ &lt;/li&gt;
+     &lt;li&gt; 5 is not a factor &lt;/li&gt;
+     &lt;li&gt; 7 is not a factor &lt;/li&gt;
+     &lt;li&gt; 9 is not a factor &lt;/li&gt;
+ &lt;/ul&gt;
+  &lt;br /&gt;
+  And $9^2$ is already larger than $51$, so we don't need to try any more. &lt;br /&gt;
+  The largest prime factor we found was $17$.&lt;br /&gt;&lt;br /&gt;
+&lt;/details&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;garv-likes-gifs&quot;&gt;garv likes gifs&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt; &lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt;
+&lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt; &lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt;
+&lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt; &lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt;
+&lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt; &lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt;
+&lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt; &lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt;
+&lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt; &lt;img src=&quot;/club/static/dance.gif&quot; alt=&quot;dance&quot; /&gt;
+&lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt; &lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt;
+&lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt; &lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt;
+&lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt; &lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt;
+&lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt; &lt;img src=&quot;/club/static/cat.gif&quot; alt=&quot;cat&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
